@@ -4,15 +4,17 @@
 
 <head>
     
-# high schoool
+# TITLE
 
 </head>
+
+![Alt Tag]([https://i.imgur.com/PYV4crq.png](https://i.pinimg.com/736x/d9/0e/a7/d90ea7f59ea0f10c6c3725a292fcc332.jpg))
 
 <body>
 
  
 
-  <h1>PAGE ONE</h1>
+  <h1> do you really know what else to talk about, little one?</h1>
 
  
 
@@ -20,7 +22,7 @@
 
   <!-- absolute link -->
 
-  <a href = "https://lilivelazquezz.github.io/aimswebsite">BACK </a>
+  <a href = "https://lilivelazquezz.github.io/aimswebsite"> ENTER </a>
 
  
 
