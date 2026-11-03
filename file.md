@@ -3,7 +3,6 @@
 <html lang="en">
 
 <head>
-    <title>*** AIMS ***</title>
     # high schoool
 </head>
 
