@@ -8,7 +8,7 @@
 
 </head>
 
-!(https://i.pinimg.com/736x/d9/0e/a7/d90ea7f59ea0f10c6c3725a292fcc332.jpg)
+<img src="https://i.pinimg.com/736x/d9/0e/a7/d90ea7f59ea0f10c6c3725a292fcc332.jp" alt="description" width="800">
 
 <body>
 
