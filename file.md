@@ -22,7 +22,7 @@
 
   <!-- absolute link -->
 
-  <a href = "https://lilivelazquezz.github.io/aimswebsite"> ENTER </a>
+  <a href = "https://www.youtube.com/watch?v=qHpB-aTaxIA&pp=ygUMbmFnaXNhIG1vbW9l"> ENTER </a>
 
  
 
