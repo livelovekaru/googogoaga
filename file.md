@@ -3,14 +3,16 @@
 <html lang="en">
 
 <head>
-    <title> *** AIMS *** </title>
+
     <meta charset="UTF-8">
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- Link your CSS stylesheet here relative link -->
+    <title>*** AIMS ***</title>
 
-    <link rel="stylesheet"> wow </href="style.css">
+    <!-- Link your CSS stylesheet here -->
+
+    <link rel="stylesheet" href="style.css">
 
 </head>
 
@@ -18,29 +20,17 @@
 
  
 
-  <h1>AIMS</h1>
+  <h1>PAGE ONE</h1>
 
-  <p>Hello from Oakland!</p>
+ 
 
   
 
-  <!-- Image link with an absolute link -->
+  <!-- absolute link -->
 
-  <img src="https://www.sfspca.org/wp-content/uploads/2026/10/99c9ea47-2f82-4ff1-8e17-dbe49cdf3467.jpg" alt="Cat" width="250" height="300">
-
- 
-
-    <-- absolute link to my page one -->
-
-  <a href="https://lilivelazquezz.github.io/aimswebsite/pageOne.html"> Page One </a>
+  <a href = "https://lilivelazquezz.github.io/aimswebsite">BACK </a>
 
  
-
-        <-- relative link to my page two -->    
-
-    <a href="https://pageTwo.html"> Page Two </a>
-
-     
 
 </body>
 
