@@ -3,16 +3,14 @@
 <html lang="en">
 
 <head>
-
+    <title> *** AIMS *** </title>
     <meta charset="UTF-8">
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>*** AIMS ***</title>
-
     <!-- Link your CSS stylesheet here relative link -->
 
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet"> wow </href="style.css">
 
 </head>
 
@@ -40,7 +38,7 @@
 
         <-- relative link to my page two -->    
 
-    <a href="pageTwo.html"> Page Two </a>
+    <a href="https://pageTwo.html"> Page Two </a>
 
      
 
