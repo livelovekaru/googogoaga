@@ -6,13 +6,11 @@ body {
   padding: 40px;
 }
 
-/* Main title */
 h1 {
   color: #1a56db;
   font-size: 36px;
 }
 
-/* Navigation links */
 a {
   display: inline-block;
   margin: 10px;
