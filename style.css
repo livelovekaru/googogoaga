@@ -1,8 +1,28 @@
 body {
-  background-color: lightblue;
-  font-family: sans-serif;
+  background-color: #eef2f7;
+  color: #222222;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 40px;
 }
 
+/* Main title */
 h1 {
-  color: navy;
+  color: #1a56db;
+  font-size: 36px;
+}
+
+/* Navigation links */
+a {
+  display: inline-block;
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: #1a56db;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+a:hover {
+  background-color: #123e9c;
 }
